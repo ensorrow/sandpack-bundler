@@ -1,8 +1,10 @@
 {
-  "type": "command",
-  "command": {
-    "cmd": [
-        "mv ./www $BUILD_DEST"
-    ]
+  "assets": {
+    "type": "command",
+    "command": {
+      "cmd": [
+          "mv ./www $BUILD_DEST"
+      ]
+    }
   }
 }
