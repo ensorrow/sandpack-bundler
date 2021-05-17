@@ -1,0 +1,8 @@
+{
+  "type": "command",
+  "command": {
+    "cmd": [
+        "mv ./www $BUILD_DEST"
+    ]
+  }
+}
